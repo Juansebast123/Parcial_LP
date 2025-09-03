@@ -1,0 +1,8 @@
+sqrt(9)
+sqrt(16) + 2
+10 - sqrt(4)
+sqrt(36) / 2
+sqrt(49)
+sqrt(sqrt(16))
+sqrt(-9)
+
