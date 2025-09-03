@@ -5,8 +5,8 @@ La calculadora soporta las siguientes operaciones:
 - Resta: -
 - Multiplicacion: *
 - Division: /
-- Valor absoluto: abs(expr)
-- Raiz cuadrada: sqrt(expr)
+- Valor absoluto: abs()
+- Raiz cuadrada: sqrt()
 
 lex (.l)
 - Se encarga de reconocer los tokens (numeros, operadores y funciones como abs y sqrt) y pasarlos al parser.
