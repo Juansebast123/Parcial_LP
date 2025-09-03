@@ -13,6 +13,7 @@ Las reglas del AFD es que debe ser posible que haya una cadena vacia, por lo que
 Explicacion de como funciona el AFD:
  
 Cadena: aaabbbcc
+
 Estado inicial: q0
 - Lee 'a' → (q0, a) = sigue en q0
 - Lee 'a' → (q0, a) = sigue en q0
